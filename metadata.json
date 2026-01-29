@@ -1,0 +1,8 @@
+{
+  "name": "CareerTrack Pro",
+  "description": "A high-performance job application tracker with AI-powered data extraction from job descriptions and emails. Features Kanban boards, detailed interview tracking, and advanced analytics for salary, location, and benefits.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
